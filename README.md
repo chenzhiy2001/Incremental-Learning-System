@@ -1,4 +1,4 @@
-Design of an Incremental Learning System
+# Design of an Incremental Learning System
 
 Anki, Supermemo 很好用，但是主要集中在记忆。
 woz在他的网站上提到过，总是可以以最高兴趣来学习。
@@ -16,10 +16,10 @@ https://www.reddit.com/r/Anki/comments/fqlnob/incremental_reading_for_technical_
 系统是为了轻松快乐地学习，因此不妨把某些事情放到几天后再看看。
 
 功能：
-同时做很多件事。对于每件事，做到没兴趣了就停止，并决定下次继续的时间。
+- 同时做很多件事。对于每件事，做到没兴趣了就停止，并决定下次继续的时间。
 
 数据结构：
-一个map，键是日期，值是那一天要做的事，对于每件事，都记录其状态。
+- 一个map，键是日期，值是那一天要做的事，对于每件事，都记录其状态。
 状态包括一个文本（一些注释）和对应的文件夹。文件夹里面是以图片形式
 存储的笔记。笔记可以让自己精确地掌握学习进度。图片最好一小块一小块，
 方便消化吸收。
