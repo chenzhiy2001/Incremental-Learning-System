@@ -5,6 +5,7 @@ def s1mple(repetition_times,easiness,lowest_difficulty=0,highest_difficulty=5):
     if easiness==2: return 4
     if easiness==1: return 5
     if easiness==0: return 6
+    # y=-x+6
 
 def sm_2(repetition_times,easiness,lowest_difficulty=0,highest_difficulty=5):
     pass

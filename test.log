@@ -1,0 +1,624 @@
+2023-04-23 00:30:37,478 - INFO - Current time: Sun Apr 23 00:30:37 2023
+2023-04-23 00:30:38,522 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 00:32:04,995 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 00:32:07,000 - INFO - Current time: Sun Apr 23 00:32:07 2023
+2023-04-23 00:34:29,253 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 00:37:22,510 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 00:39:35,993 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 00:40:06,125 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 00:40:06,127 - INFO - Found precedent tasks from 2023-04-22. Moving it to today...
+2023-04-23 00:43:45,016 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 00:43:45,019 - INFO - Found precedent tasks from 2023-04-22. Moving it to today...
+2023-04-23 00:48:50,454 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 00:48:50,456 - INFO - Found precedent tasks from 2023-04-22. Moving it to today...
+2023-04-23 00:48:50,456 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 00:48:52,462 - INFO - Current time: Sun Apr 23 00:48:52 2023
+2023-04-23 00:54:49,326 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 00:54:49,328 - INFO - Found precedent tasks from 2023-04-22. Moving it to today...
+2023-04-23 00:54:49,328 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 00:54:51,334 - INFO - Current time: Sun Apr 23 00:54:51 2023
+2023-04-23 00:56:45,553 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 00:56:45,555 - INFO - Found precedent tasks from 2023-04-22. Moving it to today...
+2023-04-23 00:56:45,555 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 00:56:47,561 - INFO - Current time: Sun Apr 23 00:56:47 2023
+2023-04-23 00:57:24,334 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 00:57:24,336 - INFO - Found precedent tasks from 2023-04-22. Moving it to today...
+2023-04-23 00:57:24,336 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 00:57:26,342 - INFO - Current time: Sun Apr 23 00:57:26 2023
+2023-04-23 00:57:43,874 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 00:57:43,876 - INFO - Found precedent tasks from 2023-04-22. Moving it to today...
+2023-04-23 00:57:43,876 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 00:57:45,882 - INFO - Current time: Sun Apr 23 00:57:45 2023
+2023-04-23 00:58:01,799 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 00:58:01,801 - INFO - Found precedent tasks from 2023-04-22. Moving it to today...
+2023-04-23 00:58:01,801 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 00:58:03,807 - INFO - Current time: Sun Apr 23 00:58:03 2023
+2023-04-23 16:02:47,638 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 16:02:47,641 - INFO - Found precedent tasks from 2023-04-22. Moving it to today...
+2023-04-23 16:02:47,641 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 16:02:49,647 - INFO - Current time: Sun Apr 23 16:02:49 2023
+2023-04-23 16:28:14,090 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 16:28:14,093 - INFO - Found precedent tasks from 2023-04-22. Moving it to today...
+2023-04-23 16:28:14,093 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 16:28:16,099 - INFO - Current time: Sun Apr 23 16:28:16 2023
+2023-04-23 16:30:27,482 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 16:30:27,484 - INFO - Found precedent tasks from 2023-04-22. Moving it to today...
+2023-04-23 16:30:27,485 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 16:30:29,491 - INFO - Current time: Sun Apr 23 16:30:29 2023
+2023-04-23 16:32:21,450 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 16:32:21,452 - INFO - Found precedent tasks from 2023-04-22. Moving it to today...
+2023-04-23 16:32:21,453 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 16:32:23,458 - INFO - Current time: Sun Apr 23 16:32:23 2023
+2023-04-23 16:34:14,231 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 16:34:14,233 - INFO - Found precedent tasks from 2023-04-22. Moving it to today...
+2023-04-23 16:34:14,233 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 16:34:16,239 - INFO - Current time: Sun Apr 23 16:34:16 2023
+2023-04-23 16:35:54,200 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 16:35:54,202 - INFO - Found precedent tasks from 2023-04-22. Moving it to today...
+2023-04-23 16:35:54,203 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 16:35:56,208 - INFO - Current time: Sun Apr 23 16:35:56 2023
+2023-04-23 16:36:42,215 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 16:36:42,217 - INFO - Found precedent tasks from 2023-04-22. Moving it to today...
+2023-04-23 16:36:42,217 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 16:36:44,223 - INFO - Current time: Sun Apr 23 16:36:44 2023
+2023-04-23 16:37:20,114 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 16:37:20,116 - INFO - Found precedent tasks from 2023-04-22. Moving it to today...
+2023-04-23 16:37:20,117 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 16:37:22,123 - INFO - Current time: Sun Apr 23 16:37:22 2023
+2023-04-23 16:38:08,018 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 16:38:08,019 - INFO - Found precedent tasks from 2023-04-22. Moving it to today...
+2023-04-23 16:38:08,020 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 16:38:10,025 - INFO - Current time: Sun Apr 23 16:38:10 2023
+2023-04-23 16:38:52,804 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 16:38:52,806 - INFO - Found precedent tasks from 2023-04-22. Moving it to today...
+2023-04-23 16:38:52,806 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 16:38:54,812 - INFO - Current time: Sun Apr 23 16:38:54 2023
+2023-04-23 16:39:24,635 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 16:39:24,636 - INFO - Found precedent tasks from 2023-04-22. Moving it to today...
+2023-04-23 16:39:24,636 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 16:39:26,640 - INFO - Current time: Sun Apr 23 16:39:26 2023
+2023-04-23 16:40:31,495 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 16:40:31,497 - INFO - Found precedent tasks from 2023-04-22. Moving it to today...
+2023-04-23 16:40:31,497 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 16:40:33,503 - INFO - Current time: Sun Apr 23 16:40:33 2023
+2023-04-23 16:41:12,796 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 16:41:12,798 - INFO - Found precedent tasks from 2023-04-22. Moving it to today...
+2023-04-23 16:41:12,798 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 16:41:14,804 - INFO - Current time: Sun Apr 23 16:41:14 2023
+2023-04-23 16:41:32,042 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 16:41:32,043 - INFO - Found precedent tasks from 2023-04-22. Moving it to today...
+2023-04-23 16:41:32,043 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 16:41:34,049 - INFO - Current time: Sun Apr 23 16:41:34 2023
+2023-04-23 16:41:49,844 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 16:41:49,846 - INFO - Found precedent tasks from 2023-04-22. Moving it to today...
+2023-04-23 16:41:49,846 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 16:41:51,852 - INFO - Current time: Sun Apr 23 16:41:51 2023
+2023-04-23 16:43:23,741 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 16:43:23,743 - INFO - Found precedent tasks from 2023-04-22. Moving it to today...
+2023-04-23 16:43:23,743 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 16:43:25,749 - INFO - Current time: Sun Apr 23 16:43:25 2023
+2023-04-23 16:43:48,334 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 16:43:48,335 - INFO - Found precedent tasks from 2023-04-22. Moving it to today...
+2023-04-23 16:43:48,336 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 16:43:50,342 - INFO - Current time: Sun Apr 23 16:43:50 2023
+2023-04-23 16:44:24,250 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 16:44:24,251 - INFO - Found precedent tasks from 2023-04-22. Moving it to today...
+2023-04-23 16:44:24,251 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 16:44:26,257 - INFO - Current time: Sun Apr 23 16:44:26 2023
+2023-04-23 17:05:34,444 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 17:05:34,446 - INFO - Found precedent tasks from 2023-04-22. Moving it to today...
+2023-04-23 17:05:34,446 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 17:05:36,452 - INFO - Current time: Sun Apr 23 17:05:36 2023
+2023-04-23 17:06:45,500 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 17:06:45,502 - INFO - Found precedent tasks from 2023-04-22. Moving it to today...
+2023-04-23 17:06:45,502 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 17:06:47,508 - INFO - Current time: Sun Apr 23 17:06:47 2023
+2023-04-23 17:09:49,388 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 17:09:49,390 - INFO - Found precedent tasks from 2023-04-22. Moving it to today...
+2023-04-23 17:10:29,635 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 17:10:29,637 - INFO - Found precedent tasks from 2023-04-22. Moving it to today...
+2023-04-23 17:10:29,637 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 17:10:29,638 - INFO - Everything Saved!
+2023-04-23 17:10:31,644 - INFO - Current time: Sun Apr 23 17:10:31 2023
+2023-04-23 17:13:22,496 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 17:13:22,498 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 17:13:22,499 - INFO - Everything Saved!
+2023-04-23 17:13:24,504 - INFO - Current time: Sun Apr 23 17:13:24 2023
+2023-04-23 17:13:52,839 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 17:13:52,841 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 17:13:52,841 - INFO - Everything Saved!
+2023-04-23 17:13:54,847 - INFO - Current time: Sun Apr 23 17:13:54 2023
+2023-04-23 17:13:56,852 - INFO - Current time: Sun Apr 23 17:13:56 2023
+2023-04-23 17:13:58,858 - INFO - Current time: Sun Apr 23 17:13:58 2023
+2023-04-23 17:14:00,907 - INFO - Current time: Sun Apr 23 17:14:00 2023
+2023-04-23 17:14:02,964 - INFO - Current time: Sun Apr 23 17:14:02 2023
+2023-04-23 17:14:04,986 - INFO - Current time: Sun Apr 23 17:14:04 2023
+2023-04-23 17:14:07,011 - INFO - Current time: Sun Apr 23 17:14:07 2023
+2023-04-23 17:14:09,038 - INFO - Current time: Sun Apr 23 17:14:09 2023
+2023-04-23 17:14:11,064 - INFO - Current time: Sun Apr 23 17:14:11 2023
+2023-04-23 17:14:13,076 - INFO - Current time: Sun Apr 23 17:14:13 2023
+2023-04-23 17:14:15,082 - INFO - Current time: Sun Apr 23 17:14:15 2023
+2023-04-23 17:14:17,104 - INFO - Current time: Sun Apr 23 17:14:17 2023
+2023-04-23 17:14:19,129 - INFO - Current time: Sun Apr 23 17:14:19 2023
+2023-04-23 17:14:21,141 - INFO - Current time: Sun Apr 23 17:14:21 2023
+2023-04-23 17:14:23,146 - INFO - Current time: Sun Apr 23 17:14:23 2023
+2023-04-23 17:14:25,148 - INFO - Current time: Sun Apr 23 17:14:25 2023
+2023-04-23 17:16:24,354 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 17:16:24,356 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 17:16:24,356 - INFO - Everything Saved!
+2023-04-23 17:16:26,362 - INFO - Current time: Sun Apr 23 17:16:26 2023
+2023-04-23 17:16:28,389 - INFO - Current time: Sun Apr 23 17:16:28 2023
+2023-04-23 17:16:30,414 - INFO - Current time: Sun Apr 23 17:16:30 2023
+2023-04-23 17:16:32,420 - INFO - Current time: Sun Apr 23 17:16:32 2023
+2023-04-23 17:16:34,426 - INFO - Current time: Sun Apr 23 17:16:34 2023
+2023-04-23 17:16:36,504 - INFO - Current time: Sun Apr 23 17:16:36 2023
+2023-04-23 17:16:38,509 - INFO - Current time: Sun Apr 23 17:16:38 2023
+2023-04-23 18:02:19,761 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 18:02:19,764 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 18:02:19,764 - INFO - Everything Saved!
+2023-04-23 18:02:21,770 - INFO - Current time: Sun Apr 23 18:02:21 2023
+2023-04-23 18:02:23,772 - INFO - Current time: Sun Apr 23 18:02:23 2023
+2023-04-23 18:02:25,778 - INFO - Current time: Sun Apr 23 18:02:25 2023
+2023-04-23 18:02:27,784 - INFO - Current time: Sun Apr 23 18:02:27 2023
+2023-04-23 18:02:29,809 - INFO - Current time: Sun Apr 23 18:02:29 2023
+2023-04-23 18:02:31,904 - INFO - Current time: Sun Apr 23 18:02:31 2023
+2023-04-23 18:02:33,930 - INFO - Current time: Sun Apr 23 18:02:33 2023
+2023-04-23 18:02:35,936 - INFO - Current time: Sun Apr 23 18:02:35 2023
+2023-04-23 18:02:37,942 - INFO - Current time: Sun Apr 23 18:02:37 2023
+2023-04-23 18:10:46,341 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 18:10:46,343 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 18:10:46,344 - INFO - Everything Saved!
+2023-04-23 18:10:48,349 - INFO - Current time: Sun Apr 23 18:10:48 2023
+2023-04-23 18:10:50,394 - INFO - Current time: Sun Apr 23 18:10:50 2023
+2023-04-23 18:11:39,552 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 18:11:39,553 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 18:11:39,554 - INFO - Everything Saved!
+2023-04-23 18:11:41,559 - INFO - Current time: Sun Apr 23 18:11:41 2023
+2023-04-23 18:11:43,577 - INFO - Current time: Sun Apr 23 18:11:43 2023
+2023-04-23 18:11:45,582 - INFO - Current time: Sun Apr 23 18:11:45 2023
+2023-04-23 18:11:47,587 - INFO - Current time: Sun Apr 23 18:11:47 2023
+2023-04-23 18:11:49,592 - INFO - Current time: Sun Apr 23 18:11:49 2023
+2023-04-23 18:11:51,596 - INFO - Current time: Sun Apr 23 18:11:51 2023
+2023-04-23 18:11:53,600 - INFO - Current time: Sun Apr 23 18:11:53 2023
+2023-04-23 18:11:55,807 - INFO - Current time: Sun Apr 23 18:11:55 2023
+2023-04-23 18:11:57,837 - INFO - Current time: Sun Apr 23 18:11:57 2023
+2023-04-23 18:11:59,843 - INFO - Current time: Sun Apr 23 18:11:59 2023
+2023-04-23 18:12:01,869 - INFO - Current time: Sun Apr 23 18:12:01 2023
+2023-04-23 18:12:03,877 - INFO - Current time: Sun Apr 23 18:12:03 2023
+2023-04-23 18:12:05,887 - INFO - Current time: Sun Apr 23 18:12:05 2023
+2023-04-23 18:12:07,894 - INFO - Current time: Sun Apr 23 18:12:07 2023
+2023-04-23 18:12:10,072 - INFO - Current time: Sun Apr 23 18:12:10 2023
+2023-04-23 18:12:12,077 - INFO - Current time: Sun Apr 23 18:12:12 2023
+2023-04-23 18:12:14,117 - INFO - Current time: Sun Apr 23 18:12:14 2023
+2023-04-23 18:20:08,639 - INFO - Decoding json has failed. Please check tasks.json.
+Perhaps you need to fix the format error. If it's empty, delete it and rerun the program.
+2023-04-23 18:20:10,644 - INFO - Current time: Sun Apr 23 18:20:10 2023
+2023-04-23 18:20:12,674 - INFO - Current time: Sun Apr 23 18:20:12 2023
+2023-04-23 18:20:14,689 - INFO - Current time: Sun Apr 23 18:20:14 2023
+2023-04-23 18:28:38,633 - INFO - Decoding json has failed. Please check tasks.json.
+Perhaps you need to fix the format error. If it's empty, delete it and rerun the program.
+2023-04-23 18:28:40,638 - INFO - Current time: Sun Apr 23 18:28:40 2023
+2023-04-23 18:28:42,641 - INFO - Current time: Sun Apr 23 18:28:42 2023
+2023-04-23 18:28:44,646 - INFO - Current time: Sun Apr 23 18:28:44 2023
+2023-04-23 18:28:46,699 - INFO - Current time: Sun Apr 23 18:28:46 2023
+2023-04-23 18:28:48,702 - INFO - Current time: Sun Apr 23 18:28:48 2023
+2023-04-23 18:28:50,711 - INFO - Current time: Sun Apr 23 18:28:50 2023
+2023-04-23 18:28:52,760 - INFO - Current time: Sun Apr 23 18:28:52 2023
+2023-04-23 18:28:54,765 - INFO - Current time: Sun Apr 23 18:28:54 2023
+2023-04-23 18:28:56,803 - INFO - Current time: Sun Apr 23 18:28:56 2023
+2023-04-23 18:28:58,900 - INFO - Current time: Sun Apr 23 18:28:58 2023
+2023-04-23 18:32:42,314 - INFO - Decoding json has failed. Please check tasks.json.
+Perhaps you need to fix the format error. If it's empty, delete it and rerun the program.
+2023-04-23 18:32:44,320 - INFO - Current time: Sun Apr 23 18:32:44 2023
+2023-04-23 18:32:46,345 - INFO - Current time: Sun Apr 23 18:32:46 2023
+2023-04-23 18:32:48,368 - INFO - Current time: Sun Apr 23 18:32:48 2023
+2023-04-23 18:32:50,377 - INFO - Current time: Sun Apr 23 18:32:50 2023
+2023-04-23 18:32:52,382 - INFO - Current time: Sun Apr 23 18:32:52 2023
+2023-04-23 18:32:54,383 - INFO - Current time: Sun Apr 23 18:32:54 2023
+2023-04-23 18:32:56,441 - INFO - Current time: Sun Apr 23 18:32:56 2023
+2023-04-23 18:32:58,451 - INFO - Current time: Sun Apr 23 18:32:58 2023
+2023-04-23 18:33:00,469 - INFO - Current time: Sun Apr 23 18:33:00 2023
+2023-04-23 18:33:02,480 - INFO - Current time: Sun Apr 23 18:33:02 2023
+2023-04-23 18:33:04,583 - INFO - Current time: Sun Apr 23 18:33:04 2023
+2023-04-23 18:33:06,612 - INFO - Current time: Sun Apr 23 18:33:06 2023
+2023-04-23 18:33:08,624 - INFO - Current time: Sun Apr 23 18:33:08 2023
+2023-04-23 18:33:10,653 - INFO - Current time: Sun Apr 23 18:33:10 2023
+2023-04-23 18:33:12,680 - INFO - Current time: Sun Apr 23 18:33:12 2023
+2023-04-23 18:33:14,707 - INFO - Current time: Sun Apr 23 18:33:14 2023
+2023-04-23 18:33:16,732 - INFO - Current time: Sun Apr 23 18:33:16 2023
+2023-04-23 18:33:18,762 - INFO - Current time: Sun Apr 23 18:33:18 2023
+2023-04-23 18:33:20,786 - INFO - Current time: Sun Apr 23 18:33:20 2023
+2023-04-23 18:33:22,789 - INFO - Current time: Sun Apr 23 18:33:22 2023
+2023-04-23 18:33:24,803 - INFO - Current time: Sun Apr 23 18:33:24 2023
+2023-04-23 18:34:32,562 - INFO - Decoding json has failed. Please check tasks.json.
+Perhaps you need to fix the format error. If it's empty, delete it and rerun the program.
+2023-04-23 18:34:34,567 - INFO - Current time: Sun Apr 23 18:34:34 2023
+2023-04-23 18:34:36,576 - INFO - Current time: Sun Apr 23 18:34:36 2023
+2023-04-23 18:34:38,620 - INFO - Current time: Sun Apr 23 18:34:38 2023
+2023-04-23 18:34:40,731 - INFO - Current time: Sun Apr 23 18:34:40 2023
+2023-04-23 18:34:42,744 - INFO - Current time: Sun Apr 23 18:34:42 2023
+2023-04-23 18:34:44,751 - INFO - Current time: Sun Apr 23 18:34:44 2023
+2023-04-23 18:34:46,897 - INFO - Current time: Sun Apr 23 18:34:46 2023
+2023-04-23 18:34:49,057 - INFO - Current time: Sun Apr 23 18:34:49 2023
+2023-04-23 18:34:51,060 - INFO - Current time: Sun Apr 23 18:34:51 2023
+2023-04-23 18:34:53,078 - INFO - Current time: Sun Apr 23 18:34:53 2023
+2023-04-23 18:34:55,084 - INFO - Current time: Sun Apr 23 18:34:55 2023
+2023-04-23 18:34:57,099 - INFO - Current time: Sun Apr 23 18:34:57 2023
+2023-04-23 18:36:16,800 - INFO - Decoding json has failed. Please check tasks.json.
+Perhaps you need to fix the format error. If it's empty, delete it and rerun the program.
+2023-04-23 18:36:18,805 - INFO - Current time: Sun Apr 23 18:36:18 2023
+2023-04-23 18:36:20,829 - INFO - Current time: Sun Apr 23 18:36:20 2023
+2023-04-23 18:36:22,922 - INFO - Current time: Sun Apr 23 18:36:22 2023
+2023-04-23 18:36:25,107 - INFO - Current time: Sun Apr 23 18:36:25 2023
+2023-04-23 18:36:27,132 - INFO - Current time: Sun Apr 23 18:36:27 2023
+2023-04-23 18:36:29,157 - INFO - Current time: Sun Apr 23 18:36:29 2023
+2023-04-23 18:36:31,182 - INFO - Current time: Sun Apr 23 18:36:31 2023
+2023-04-23 18:36:33,188 - INFO - Current time: Sun Apr 23 18:36:33 2023
+2023-04-23 18:36:35,212 - INFO - Current time: Sun Apr 23 18:36:35 2023
+2023-04-23 18:36:37,237 - INFO - Current time: Sun Apr 23 18:36:37 2023
+2023-04-23 18:36:39,266 - INFO - Current time: Sun Apr 23 18:36:39 2023
+2023-04-23 18:36:41,289 - INFO - Current time: Sun Apr 23 18:36:41 2023
+2023-04-23 18:36:43,319 - INFO - Current time: Sun Apr 23 18:36:43 2023
+2023-04-23 18:36:45,346 - INFO - Current time: Sun Apr 23 18:36:45 2023
+2023-04-23 18:36:47,374 - INFO - Current time: Sun Apr 23 18:36:47 2023
+2023-04-23 18:36:49,398 - INFO - Current time: Sun Apr 23 18:36:49 2023
+2023-04-23 18:36:51,429 - INFO - Current time: Sun Apr 23 18:36:51 2023
+2023-04-23 18:36:53,442 - INFO - Current time: Sun Apr 23 18:36:53 2023
+2023-04-23 18:36:55,471 - INFO - Current time: Sun Apr 23 18:36:55 2023
+2023-04-23 18:36:57,505 - INFO - Current time: Sun Apr 23 18:36:57 2023
+2023-04-23 18:36:59,534 - INFO - Current time: Sun Apr 23 18:36:59 2023
+2023-04-23 18:37:01,535 - INFO - Current time: Sun Apr 23 18:37:01 2023
+2023-04-23 18:37:03,537 - INFO - Current time: Sun Apr 23 18:37:03 2023
+2023-04-23 18:42:48,429 - INFO - Decoding json has failed. Please check tasks.json.
+Perhaps you need to fix the format error. If it's empty, delete it and rerun the program.
+2023-04-23 18:42:50,434 - INFO - Current time: Sun Apr 23 18:42:50 2023
+2023-04-23 18:42:52,495 - INFO - Current time: Sun Apr 23 18:42:52 2023
+2023-04-23 18:42:54,501 - INFO - Current time: Sun Apr 23 18:42:54 2023
+2023-04-23 18:44:37,476 - INFO - Decoding json has failed. Please check tasks.json.
+Perhaps you need to fix the format error. If it's empty, delete it and rerun the program.
+2023-04-23 18:44:39,481 - INFO - Current time: Sun Apr 23 18:44:39 2023
+2023-04-23 18:44:41,483 - INFO - Current time: Sun Apr 23 18:44:41 2023
+2023-04-23 18:44:43,668 - INFO - Current time: Sun Apr 23 18:44:43 2023
+2023-04-23 18:45:07,589 - INFO - Decoding json has failed. Please check tasks.json.
+Perhaps you need to fix the format error. If it's empty, delete it and rerun the program.
+2023-04-23 18:45:09,594 - INFO - Current time: Sun Apr 23 18:45:09 2023
+2023-04-23 18:45:18,651 - INFO - Tasklist does not exist. Creating one...
+2023-04-23 18:45:18,652 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 18:45:18,656 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 18:45:18,656 - INFO - Everything Saved!
+2023-04-23 18:45:20,662 - INFO - Current time: Sun Apr 23 18:45:20 2023
+2023-04-23 18:45:22,710 - INFO - Current time: Sun Apr 23 18:45:22 2023
+2023-04-23 18:45:24,717 - INFO - Current time: Sun Apr 23 18:45:24 2023
+2023-04-23 18:45:26,725 - INFO - Current time: Sun Apr 23 18:45:26 2023
+2023-04-23 18:45:28,736 - INFO - Current time: Sun Apr 23 18:45:28 2023
+2023-04-23 18:45:30,774 - INFO - Current time: Sun Apr 23 18:45:30 2023
+2023-04-23 18:45:32,787 - INFO - Current time: Sun Apr 23 18:45:32 2023
+2023-04-23 18:45:34,834 - INFO - Current time: Sun Apr 23 18:45:34 2023
+2023-04-23 18:45:36,958 - INFO - Current time: Sun Apr 23 18:45:36 2023
+2023-04-23 18:45:39,080 - INFO - Current time: Sun Apr 23 18:45:39 2023
+2023-04-23 18:45:41,096 - INFO - Current time: Sun Apr 23 18:45:41 2023
+2023-04-23 18:45:43,122 - INFO - Current time: Sun Apr 23 18:45:43 2023
+2023-04-23 18:45:45,128 - INFO - Current time: Sun Apr 23 18:45:45 2023
+2023-04-23 18:45:59,932 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 18:45:59,934 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 18:45:59,934 - INFO - Everything Saved!
+2023-04-23 18:46:01,939 - INFO - Current time: Sun Apr 23 18:46:01 2023
+2023-04-23 18:46:04,001 - INFO - Current time: Sun Apr 23 18:46:04 2023
+2023-04-23 18:46:06,046 - INFO - Current time: Sun Apr 23 18:46:06 2023
+2023-04-23 18:46:08,052 - INFO - Current time: Sun Apr 23 18:46:08 2023
+2023-04-23 18:46:10,081 - INFO - Current time: Sun Apr 23 18:46:10 2023
+2023-04-23 18:46:31,864 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 18:46:31,866 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 18:46:31,866 - INFO - Everything Saved!
+2023-04-23 18:46:33,871 - INFO - Current time: Sun Apr 23 18:46:33 2023
+2023-04-23 18:47:12,111 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 18:47:12,113 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 18:47:12,113 - INFO - Everything Saved!
+2023-04-23 18:47:14,118 - INFO - Current time: Sun Apr 23 18:47:14 2023
+2023-04-23 18:47:16,129 - INFO - Current time: Sun Apr 23 18:47:16 2023
+2023-04-23 18:47:18,135 - INFO - Current time: Sun Apr 23 18:47:18 2023
+2023-04-23 18:47:20,138 - INFO - Current time: Sun Apr 23 18:47:20 2023
+2023-04-23 18:47:22,270 - INFO - Current time: Sun Apr 23 18:47:22 2023
+2023-04-23 18:47:24,276 - INFO - Current time: Sun Apr 23 18:47:24 2023
+2023-04-23 18:47:26,281 - INFO - Current time: Sun Apr 23 18:47:26 2023
+2023-04-23 18:47:28,299 - INFO - Current time: Sun Apr 23 18:47:28 2023
+2023-04-23 18:47:30,325 - INFO - Current time: Sun Apr 23 18:47:30 2023
+2023-04-23 18:47:32,353 - INFO - Current time: Sun Apr 23 18:47:32 2023
+2023-04-23 18:47:34,358 - INFO - Current time: Sun Apr 23 18:47:34 2023
+2023-04-23 18:47:36,364 - INFO - Current time: Sun Apr 23 18:47:36 2023
+2023-04-23 18:47:38,386 - INFO - Current time: Sun Apr 23 18:47:38 2023
+2023-04-23 18:47:40,392 - INFO - Current time: Sun Apr 23 18:47:40 2023
+2023-04-23 18:47:42,416 - INFO - Current time: Sun Apr 23 18:47:42 2023
+2023-04-23 18:47:44,446 - INFO - Current time: Sun Apr 23 18:47:44 2023
+2023-04-23 18:47:46,478 - INFO - Current time: Sun Apr 23 18:47:46 2023
+2023-04-23 18:47:48,507 - INFO - Current time: Sun Apr 23 18:47:48 2023
+2023-04-23 18:47:50,538 - INFO - Current time: Sun Apr 23 18:47:50 2023
+2023-04-23 18:47:52,544 - INFO - Current time: Sun Apr 23 18:47:52 2023
+2023-04-23 18:47:54,545 - INFO - Current time: Sun Apr 23 18:47:54 2023
+2023-04-23 18:47:56,550 - INFO - Current time: Sun Apr 23 18:47:56 2023
+2023-04-23 18:47:58,556 - INFO - Current time: Sun Apr 23 18:47:58 2023
+2023-04-23 18:48:00,561 - INFO - Current time: Sun Apr 23 18:48:00 2023
+2023-04-23 18:48:02,567 - INFO - Current time: Sun Apr 23 18:48:02 2023
+2023-04-23 18:48:04,588 - INFO - Current time: Sun Apr 23 18:48:04 2023
+2023-04-23 18:48:06,621 - INFO - Current time: Sun Apr 23 18:48:06 2023
+2023-04-23 18:48:08,648 - INFO - Current time: Sun Apr 23 18:48:08 2023
+2023-04-23 18:48:10,681 - INFO - Current time: Sun Apr 23 18:48:10 2023
+2023-04-23 18:48:12,714 - INFO - Current time: Sun Apr 23 18:48:12 2023
+2023-04-23 18:48:14,741 - INFO - Current time: Sun Apr 23 18:48:14 2023
+2023-04-23 18:48:16,742 - INFO - Current time: Sun Apr 23 18:48:16 2023
+2023-04-23 18:48:18,777 - INFO - Current time: Sun Apr 23 18:48:18 2023
+2023-04-23 18:48:20,808 - INFO - Current time: Sun Apr 23 18:48:20 2023
+2023-04-23 18:48:22,838 - INFO - Current time: Sun Apr 23 18:48:22 2023
+2023-04-23 18:48:24,869 - INFO - Current time: Sun Apr 23 18:48:24 2023
+2023-04-23 18:48:26,895 - INFO - Current time: Sun Apr 23 18:48:26 2023
+2023-04-23 18:48:28,901 - INFO - Current time: Sun Apr 23 18:48:28 2023
+2023-04-23 18:48:30,906 - INFO - Current time: Sun Apr 23 18:48:30 2023
+2023-04-23 18:48:32,912 - INFO - Current time: Sun Apr 23 18:48:32 2023
+2023-04-23 18:48:34,918 - INFO - Current time: Sun Apr 23 18:48:34 2023
+2023-04-23 18:48:36,945 - INFO - Current time: Sun Apr 23 18:48:36 2023
+2023-04-23 18:48:38,950 - INFO - Current time: Sun Apr 23 18:48:38 2023
+2023-04-23 18:48:40,956 - INFO - Current time: Sun Apr 23 18:48:40 2023
+2023-04-23 18:48:42,410 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 18:48:42,412 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 18:48:42,412 - INFO - Everything Saved!
+2023-04-23 18:48:44,418 - INFO - Current time: Sun Apr 23 18:48:44 2023
+2023-04-23 18:48:46,435 - INFO - Current time: Sun Apr 23 18:48:46 2023
+2023-04-23 18:48:48,441 - INFO - Current time: Sun Apr 23 18:48:48 2023
+2023-04-23 18:48:50,524 - INFO - Current time: Sun Apr 23 18:48:50 2023
+2023-04-23 18:48:52,530 - INFO - Current time: Sun Apr 23 18:48:52 2023
+2023-04-23 18:48:54,535 - INFO - Current time: Sun Apr 23 18:48:54 2023
+2023-04-23 18:48:56,554 - INFO - Current time: Sun Apr 23 18:48:56 2023
+2023-04-23 18:48:58,581 - INFO - Current time: Sun Apr 23 18:48:58 2023
+2023-04-23 18:49:00,587 - INFO - Current time: Sun Apr 23 18:49:00 2023
+2023-04-23 18:49:02,592 - INFO - Current time: Sun Apr 23 18:49:02 2023
+2023-04-23 18:49:04,614 - INFO - Current time: Sun Apr 23 18:49:04 2023
+2023-04-23 18:49:06,641 - INFO - Current time: Sun Apr 23 18:49:06 2023
+2023-04-23 18:49:08,645 - INFO - Current time: Sun Apr 23 18:49:08 2023
+2023-04-23 18:49:10,651 - INFO - Current time: Sun Apr 23 18:49:10 2023
+2023-04-23 18:49:12,671 - INFO - Current time: Sun Apr 23 18:49:12 2023
+2023-04-23 18:49:14,676 - INFO - Current time: Sun Apr 23 18:49:14 2023
+2023-04-23 18:49:16,691 - INFO - Current time: Sun Apr 23 18:49:16 2023
+2023-04-23 18:49:18,222 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 18:49:18,223 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 18:49:18,223 - INFO - Everything Saved!
+2023-04-23 18:49:20,229 - INFO - Current time: Sun Apr 23 18:49:20 2023
+2023-04-23 18:49:20,655 - INFO - Everything Saved!
+2023-04-23 18:49:22,235 - INFO - Current time: Sun Apr 23 18:49:22 2023
+2023-04-23 18:49:24,239 - INFO - Current time: Sun Apr 23 18:49:24 2023
+2023-04-23 18:49:26,242 - INFO - Current time: Sun Apr 23 18:49:26 2023
+2023-04-23 18:49:28,247 - INFO - Current time: Sun Apr 23 18:49:28 2023
+2023-04-23 18:49:29,842 - INFO - Everything Saved!
+2023-04-23 18:49:30,253 - INFO - Current time: Sun Apr 23 18:49:30 2023
+2023-04-23 18:49:32,371 - INFO - Current time: Sun Apr 23 18:49:32 2023
+2023-04-23 18:49:34,376 - INFO - Current time: Sun Apr 23 18:49:34 2023
+2023-04-23 18:49:36,382 - INFO - Current time: Sun Apr 23 18:49:36 2023
+2023-04-23 18:49:38,388 - INFO - Current time: Sun Apr 23 18:49:38 2023
+2023-04-23 18:49:40,404 - INFO - Current time: Sun Apr 23 18:49:40 2023
+2023-04-23 18:49:42,434 - INFO - Current time: Sun Apr 23 18:49:42 2023
+2023-04-23 18:49:44,436 - INFO - Current time: Sun Apr 23 18:49:44 2023
+2023-04-23 18:49:46,442 - INFO - Current time: Sun Apr 23 18:49:46 2023
+2023-04-23 18:49:48,461 - INFO - Current time: Sun Apr 23 18:49:48 2023
+2023-04-23 18:49:50,486 - INFO - Current time: Sun Apr 23 18:49:50 2023
+2023-04-23 18:49:52,491 - INFO - Current time: Sun Apr 23 18:49:52 2023
+2023-04-23 18:49:54,497 - INFO - Current time: Sun Apr 23 18:49:54 2023
+2023-04-23 18:49:56,514 - INFO - Current time: Sun Apr 23 18:49:56 2023
+2023-04-23 18:49:58,549 - INFO - Current time: Sun Apr 23 18:49:58 2023
+2023-04-23 18:50:00,574 - INFO - Current time: Sun Apr 23 18:50:00 2023
+2023-04-23 18:50:02,605 - INFO - Current time: Sun Apr 23 18:50:02 2023
+2023-04-23 18:50:04,632 - INFO - Current time: Sun Apr 23 18:50:04 2023
+2023-04-23 18:50:06,662 - INFO - Current time: Sun Apr 23 18:50:06 2023
+2023-04-23 18:50:08,689 - INFO - Current time: Sun Apr 23 18:50:08 2023
+2023-04-23 18:50:10,718 - INFO - Current time: Sun Apr 23 18:50:10 2023
+2023-04-23 18:50:12,723 - INFO - Current time: Sun Apr 23 18:50:12 2023
+2023-04-23 18:50:14,729 - INFO - Current time: Sun Apr 23 18:50:14 2023
+2023-04-23 18:50:16,754 - INFO - Current time: Sun Apr 23 18:50:16 2023
+2023-04-23 18:50:18,760 - INFO - Current time: Sun Apr 23 18:50:18 2023
+2023-04-23 18:50:20,765 - INFO - Current time: Sun Apr 23 18:50:20 2023
+2023-04-23 18:50:22,771 - INFO - Current time: Sun Apr 23 18:50:22 2023
+2023-04-23 18:50:24,777 - INFO - Current time: Sun Apr 23 18:50:24 2023
+2023-04-23 18:50:26,782 - INFO - Current time: Sun Apr 23 18:50:26 2023
+2023-04-23 18:50:28,787 - INFO - Current time: Sun Apr 23 18:50:28 2023
+2023-04-23 18:50:30,793 - INFO - Current time: Sun Apr 23 18:50:30 2023
+2023-04-23 18:50:32,814 - INFO - Current time: Sun Apr 23 18:50:32 2023
+2023-04-23 18:50:34,817 - INFO - Current time: Sun Apr 23 18:50:34 2023
+2023-04-23 18:50:36,821 - INFO - Current time: Sun Apr 23 18:50:36 2023
+2023-04-23 18:50:38,827 - INFO - Current time: Sun Apr 23 18:50:38 2023
+2023-04-23 18:50:40,853 - INFO - Current time: Sun Apr 23 18:50:40 2023
+2023-04-23 18:50:42,886 - INFO - Current time: Sun Apr 23 18:50:42 2023
+2023-04-23 18:50:44,915 - INFO - Current time: Sun Apr 23 18:50:44 2023
+2023-04-23 18:50:46,953 - INFO - Current time: Sun Apr 23 18:50:46 2023
+2023-04-23 18:50:48,988 - INFO - Current time: Sun Apr 23 18:50:48 2023
+2023-04-23 18:50:51,021 - INFO - Current time: Sun Apr 23 18:50:51 2023
+2023-04-23 18:50:53,053 - INFO - Current time: Sun Apr 23 18:50:53 2023
+2023-04-23 18:50:55,085 - INFO - Current time: Sun Apr 23 18:50:55 2023
+2023-04-23 18:50:57,090 - INFO - Current time: Sun Apr 23 18:50:57 2023
+2023-04-23 18:50:59,116 - INFO - Current time: Sun Apr 23 18:50:59 2023
+2023-04-23 18:51:01,146 - INFO - Current time: Sun Apr 23 18:51:01 2023
+2023-04-23 18:51:03,179 - INFO - Current time: Sun Apr 23 18:51:03 2023
+2023-04-23 18:51:05,188 - INFO - Current time: Sun Apr 23 18:51:05 2023
+2023-04-23 18:51:07,194 - INFO - Current time: Sun Apr 23 18:51:07 2023
+2023-04-23 18:51:09,225 - INFO - Current time: Sun Apr 23 18:51:09 2023
+2023-04-23 18:51:11,254 - INFO - Current time: Sun Apr 23 18:51:11 2023
+2023-04-23 18:51:13,260 - INFO - Current time: Sun Apr 23 18:51:13 2023
+2023-04-23 18:51:15,265 - INFO - Current time: Sun Apr 23 18:51:15 2023
+2023-04-23 18:51:17,271 - INFO - Current time: Sun Apr 23 18:51:17 2023
+2023-04-23 18:51:19,276 - INFO - Current time: Sun Apr 23 18:51:19 2023
+2023-04-23 18:51:21,282 - INFO - Current time: Sun Apr 23 18:51:21 2023
+2023-04-23 18:51:23,305 - INFO - Current time: Sun Apr 23 18:51:23 2023
+2023-04-23 18:51:25,341 - INFO - Current time: Sun Apr 23 18:51:25 2023
+2023-04-23 18:51:27,379 - INFO - Current time: Sun Apr 23 18:51:27 2023
+2023-04-23 18:51:29,412 - INFO - Current time: Sun Apr 23 18:51:29 2023
+2023-04-23 18:51:31,443 - INFO - Current time: Sun Apr 23 18:51:31 2023
+2023-04-23 18:51:33,469 - INFO - Current time: Sun Apr 23 18:51:33 2023
+2023-04-23 18:51:35,504 - INFO - Current time: Sun Apr 23 18:51:35 2023
+2023-04-23 18:51:37,532 - INFO - Current time: Sun Apr 23 18:51:37 2023
+2023-04-23 18:51:39,538 - INFO - Current time: Sun Apr 23 18:51:39 2023
+2023-04-23 18:51:41,574 - INFO - Current time: Sun Apr 23 18:51:41 2023
+2023-04-23 18:51:43,610 - INFO - Current time: Sun Apr 23 18:51:43 2023
+2023-04-23 18:51:45,639 - INFO - Current time: Sun Apr 23 18:51:45 2023
+2023-04-23 18:51:47,672 - INFO - Current time: Sun Apr 23 18:51:47 2023
+2023-04-23 18:51:49,705 - INFO - Current time: Sun Apr 23 18:51:49 2023
+2023-04-23 18:51:51,731 - INFO - Current time: Sun Apr 23 18:51:51 2023
+2023-04-23 18:51:53,740 - INFO - Current time: Sun Apr 23 18:51:53 2023
+2023-04-23 18:51:55,770 - INFO - Current time: Sun Apr 23 18:51:55 2023
+2023-04-23 18:51:57,803 - INFO - Current time: Sun Apr 23 18:51:57 2023
+2023-04-23 18:51:59,844 - INFO - Current time: Sun Apr 23 18:51:59 2023
+2023-04-23 18:52:01,872 - INFO - Current time: Sun Apr 23 18:52:01 2023
+2023-04-23 18:52:03,878 - INFO - Current time: Sun Apr 23 18:52:03 2023
+2023-04-23 18:52:05,907 - INFO - Current time: Sun Apr 23 18:52:05 2023
+2023-04-23 18:52:07,941 - INFO - Current time: Sun Apr 23 18:52:07 2023
+2023-04-23 18:52:09,975 - INFO - Current time: Sun Apr 23 18:52:09 2023
+2023-04-23 18:52:11,997 - INFO - Current time: Sun Apr 23 18:52:11 2023
+2023-04-23 18:52:14,003 - INFO - Current time: Sun Apr 23 18:52:14 2023
+2023-04-23 18:52:16,008 - INFO - Current time: Sun Apr 23 18:52:16 2023
+2023-04-23 18:52:18,012 - INFO - Current time: Sun Apr 23 18:52:18 2023
+2023-04-23 18:52:20,016 - INFO - Current time: Sun Apr 23 18:52:20 2023
+2023-04-23 18:52:22,017 - INFO - Current time: Sun Apr 23 18:52:22 2023
+2023-04-23 18:52:24,022 - INFO - Current time: Sun Apr 23 18:52:24 2023
+2023-04-23 18:52:26,028 - INFO - Current time: Sun Apr 23 18:52:26 2023
+2023-04-23 18:52:28,050 - INFO - Current time: Sun Apr 23 18:52:28 2023
+2023-04-23 18:52:30,056 - INFO - Current time: Sun Apr 23 18:52:30 2023
+2023-04-23 18:52:32,061 - INFO - Current time: Sun Apr 23 18:52:32 2023
+2023-04-23 18:52:34,067 - INFO - Current time: Sun Apr 23 18:52:34 2023
+2023-04-23 18:52:36,072 - INFO - Current time: Sun Apr 23 18:52:36 2023
+2023-04-23 18:52:38,096 - INFO - Current time: Sun Apr 23 18:52:38 2023
+2023-04-23 18:52:40,124 - INFO - Current time: Sun Apr 23 18:52:40 2023
+2023-04-23 18:52:42,129 - INFO - Current time: Sun Apr 23 18:52:42 2023
+2023-04-23 18:52:44,152 - INFO - Current time: Sun Apr 23 18:52:44 2023
+2023-04-23 18:52:46,183 - INFO - Current time: Sun Apr 23 18:52:46 2023
+2023-04-23 18:52:48,189 - INFO - Current time: Sun Apr 23 18:52:48 2023
+2023-04-23 18:52:50,194 - INFO - Current time: Sun Apr 23 18:52:50 2023
+2023-04-23 18:52:52,198 - INFO - Current time: Sun Apr 23 18:52:52 2023
+2023-04-23 18:52:54,217 - INFO - Current time: Sun Apr 23 18:52:54 2023
+2023-04-23 18:52:56,246 - INFO - Current time: Sun Apr 23 18:52:56 2023
+2023-04-23 18:52:58,279 - INFO - Current time: Sun Apr 23 18:52:58 2023
+2023-04-23 18:53:00,308 - INFO - Current time: Sun Apr 23 18:53:00 2023
+2023-04-23 18:53:02,342 - INFO - Current time: Sun Apr 23 18:53:02 2023
+2023-04-23 18:53:04,373 - INFO - Current time: Sun Apr 23 18:53:04 2023
+2023-04-23 18:53:06,399 - INFO - Current time: Sun Apr 23 18:53:06 2023
+2023-04-23 18:53:08,431 - INFO - Current time: Sun Apr 23 18:53:08 2023
+2023-04-23 18:53:10,457 - INFO - Current time: Sun Apr 23 18:53:10 2023
+2023-04-23 18:53:12,487 - INFO - Current time: Sun Apr 23 18:53:12 2023
+2023-04-23 18:53:14,518 - INFO - Current time: Sun Apr 23 18:53:14 2023
+2023-04-23 18:53:16,546 - INFO - Current time: Sun Apr 23 18:53:16 2023
+2023-04-23 18:53:18,579 - INFO - Current time: Sun Apr 23 18:53:18 2023
+2023-04-23 18:53:20,607 - INFO - Current time: Sun Apr 23 18:53:20 2023
+2023-04-23 18:53:22,636 - INFO - Current time: Sun Apr 23 18:53:22 2023
+2023-04-23 18:53:24,666 - INFO - Current time: Sun Apr 23 18:53:24 2023
+2023-04-23 18:53:26,672 - INFO - Current time: Sun Apr 23 18:53:26 2023
+2023-04-23 18:53:28,678 - INFO - Current time: Sun Apr 23 18:53:28 2023
+2023-04-23 18:53:30,683 - INFO - Current time: Sun Apr 23 18:53:30 2023
+2023-04-23 18:53:32,707 - INFO - Current time: Sun Apr 23 18:53:32 2023
+2023-04-23 18:53:34,731 - INFO - Current time: Sun Apr 23 18:53:34 2023
+2023-04-23 18:53:36,736 - INFO - Current time: Sun Apr 23 18:53:36 2023
+2023-04-23 18:53:38,742 - INFO - Current time: Sun Apr 23 18:53:38 2023
+2023-04-23 18:53:40,764 - INFO - Current time: Sun Apr 23 18:53:40 2023
+2023-04-23 18:53:42,795 - INFO - Current time: Sun Apr 23 18:53:42 2023
+2023-04-23 18:53:44,827 - INFO - Current time: Sun Apr 23 18:53:44 2023
+2023-04-23 18:53:46,858 - INFO - Current time: Sun Apr 23 18:53:46 2023
+2023-04-23 18:53:48,882 - INFO - Current time: Sun Apr 23 18:53:48 2023
+2023-04-23 18:53:50,899 - INFO - Current time: Sun Apr 23 18:53:50 2023
+2023-04-23 18:53:52,904 - INFO - Current time: Sun Apr 23 18:53:52 2023
+2023-04-23 18:53:54,910 - INFO - Current time: Sun Apr 23 18:53:54 2023
+2023-04-23 18:53:56,930 - INFO - Current time: Sun Apr 23 18:53:56 2023
+2023-04-23 18:53:58,962 - INFO - Current time: Sun Apr 23 18:53:58 2023
+2023-04-23 18:54:00,968 - INFO - Current time: Sun Apr 23 18:54:00 2023
+2023-04-23 18:54:02,992 - INFO - Current time: Sun Apr 23 18:54:02 2023
+2023-04-23 18:54:05,025 - INFO - Current time: Sun Apr 23 18:54:05 2023
+2023-04-23 18:54:07,055 - INFO - Current time: Sun Apr 23 18:54:07 2023
+2023-04-23 18:54:09,061 - INFO - Current time: Sun Apr 23 18:54:09 2023
+2023-04-23 18:54:11,085 - INFO - Current time: Sun Apr 23 18:54:11 2023
+2023-04-23 18:54:13,090 - INFO - Current time: Sun Apr 23 18:54:13 2023
+2023-04-23 18:54:15,096 - INFO - Current time: Sun Apr 23 18:54:15 2023
+2023-04-23 18:54:17,120 - INFO - Current time: Sun Apr 23 18:54:17 2023
+2023-04-23 18:54:19,126 - INFO - Current time: Sun Apr 23 18:54:19 2023
+2023-04-23 18:54:21,150 - INFO - Current time: Sun Apr 23 18:54:21 2023
+2023-04-23 18:54:23,176 - INFO - Current time: Sun Apr 23 18:54:23 2023
+2023-04-23 18:54:25,202 - INFO - Current time: Sun Apr 23 18:54:25 2023
+2023-04-23 18:54:27,208 - INFO - Current time: Sun Apr 23 18:54:27 2023
+2023-04-23 18:54:29,231 - INFO - Current time: Sun Apr 23 18:54:29 2023
+2023-04-23 18:54:31,233 - INFO - Current time: Sun Apr 23 18:54:31 2023
+2023-04-23 18:54:33,239 - INFO - Current time: Sun Apr 23 18:54:33 2023
+2023-04-23 18:54:35,244 - INFO - Current time: Sun Apr 23 18:54:35 2023
+2023-04-23 18:54:37,249 - INFO - Current time: Sun Apr 23 18:54:37 2023
+2023-04-23 18:54:39,268 - INFO - Current time: Sun Apr 23 18:54:39 2023
+2023-04-23 18:54:41,274 - INFO - Current time: Sun Apr 23 18:54:41 2023
+2023-04-23 18:54:46,573 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 18:54:48,581 - INFO - Current time: Sun Apr 23 18:54:48 2023
+2023-04-23 18:54:50,617 - INFO - Current time: Sun Apr 23 18:54:50 2023
+2023-04-23 18:54:52,770 - INFO - Current time: Sun Apr 23 18:54:52 2023
+2023-04-23 18:54:54,774 - INFO - Current time: Sun Apr 23 18:54:54 2023
+2023-04-23 18:54:56,892 - INFO - Current time: Sun Apr 23 18:54:56 2023
+2023-04-23 18:54:58,918 - INFO - Current time: Sun Apr 23 18:54:58 2023
+2023-04-23 18:55:00,944 - INFO - Current time: Sun Apr 23 18:55:00 2023
+2023-04-23 18:55:02,274 - INFO - Everything Saved!
+2023-04-23 18:55:02,950 - INFO - Current time: Sun Apr 23 18:55:02 2023
+2023-04-23 18:55:04,954 - INFO - Current time: Sun Apr 23 18:55:04 2023
+2023-04-23 18:55:06,970 - INFO - Current time: Sun Apr 23 18:55:06 2023
+2023-04-23 18:55:08,976 - INFO - Current time: Sun Apr 23 18:55:08 2023
+2023-04-23 18:55:10,980 - INFO - Current time: Sun Apr 23 18:55:10 2023
+2023-04-23 18:55:11,058 - INFO - Everything Saved!
+2023-04-23 18:55:12,986 - INFO - Current time: Sun Apr 23 18:55:12 2023
+2023-04-23 18:55:15,058 - INFO - Current time: Sun Apr 23 18:55:15 2023
+2023-04-23 18:55:17,062 - INFO - Current time: Sun Apr 23 18:55:17 2023
+2023-04-23 18:55:19,088 - INFO - Current time: Sun Apr 23 18:55:19 2023
+2023-04-23 18:55:21,089 - INFO - Current time: Sun Apr 23 18:55:21 2023
+2023-04-23 18:55:23,094 - INFO - Current time: Sun Apr 23 18:55:23 2023
+2023-04-23 18:55:25,100 - INFO - Current time: Sun Apr 23 18:55:25 2023
+2023-04-23 18:55:27,109 - INFO - Current time: Sun Apr 23 18:55:27 2023
+2023-04-23 18:55:29,143 - INFO - Current time: Sun Apr 23 18:55:29 2023
+2023-04-23 18:55:31,149 - INFO - Current time: Sun Apr 23 18:55:31 2023
+2023-04-23 18:56:23,727 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 18:56:32,575 - INFO - Everything Saved!
+2023-04-23 18:57:33,692 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 18:58:07,655 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 18:58:17,156 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 18:58:47,753 - INFO - Studying: asshole
+2023-04-23 18:58:47,753 - INFO - Stop studying when you feel it not that fun. Then press STOP.
+2023-04-23 19:03:17,123 - INFO - Current time: Sun Apr 23 19:03:17 2023
+2023-04-23 19:08:17,131 - INFO - Current time: Sun Apr 23 19:08:17 2023
+2023-04-23 19:18:09,081 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 19:20:09,040 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 19:20:10,982 - INFO - Studying: fff
+2023-04-23 19:20:10,982 - INFO - Stop studying when you feel it not that fun. Then press STOP.
+2023-04-23 19:25:09,039 - INFO - Current time: Sun Apr 23 19:25:09 2023
+2023-04-23 19:27:42,275 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 19:47:37,310 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 19:48:43,977 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 19:48:46,150 - INFO - Everything Saved!
+2023-04-23 19:48:51,066 - INFO - Everything Saved!
+2023-04-23 19:48:52,984 - INFO - Everything Saved!
+2023-04-23 19:48:55,966 - INFO - Everything Saved!
+2023-04-23 19:48:56,516 - INFO - Everything Saved!
+2023-04-23 19:48:56,749 - INFO - Everything Saved!
+2023-04-23 19:48:56,933 - INFO - Everything Saved!
+2023-04-23 19:48:57,116 - INFO - Everything Saved!
+2023-04-23 19:48:57,300 - INFO - Everything Saved!
+2023-04-23 19:48:57,483 - INFO - Everything Saved!
+2023-04-23 19:48:57,649 - INFO - Everything Saved!
+2023-04-23 19:48:57,833 - INFO - Everything Saved!
+2023-04-23 19:48:58,016 - INFO - Everything Saved!
+2023-04-23 19:48:58,183 - INFO - Everything Saved!
+2023-04-23 19:48:58,350 - INFO - Everything Saved!
+2023-04-23 19:48:58,533 - INFO - Everything Saved!
+2023-04-23 19:49:03,618 - INFO - Everything Saved!
+2023-04-23 19:49:05,651 - INFO - Everything Saved!
+2023-04-23 19:49:52,853 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 19:49:52,855 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 19:49:52,855 - INFO - Everything Saved!
+2023-04-23 19:50:22,852 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 19:50:22,854 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 19:50:22,854 - INFO - Everything Saved!
+2023-04-23 19:50:27,722 - INFO - Everything Saved!
+2023-04-23 19:50:29,317 - INFO - Everything Saved!
+2023-04-23 19:50:34,190 - INFO - Everything Saved!
+2023-04-23 19:50:38,024 - INFO - Everything Saved!
+2023-04-23 19:50:40,273 - INFO - Everything Saved!
+2023-04-23 19:50:41,884 - INFO - Everything Saved!
+2023-04-23 19:50:51,717 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 19:50:54,967 - INFO - Everything Saved!
+2023-04-23 19:51:12,615 - INFO - Today is 2023-04-23. Checking precedent tasks...
+2023-04-23 19:51:12,617 - INFO - It seems that you have nothing to do now. Consider adding new tasks or take a break.
+2023-04-23 19:51:12,617 - INFO - Everything Saved!
+2023-04-23 19:55:07,452 - INFO - Everything Saved!
+2023-04-23 19:56:12,618 - INFO - Current time: Sun Apr 23 19:56:12 2023
